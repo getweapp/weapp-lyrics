@@ -1,0 +1,11 @@
+{
+    "pages":[
+        "pages/index/index",
+        "pages/song/song"
+    ],
+    "window":{
+        "navigationBarTitleText":"歌词搜索",
+        "navigationBarBackgroundColor": "#7acfa6",
+    "navigationBarTextStyle": "light"
+    }
+}
